@@ -1,14 +1,17 @@
-**_*Kirill True*_**<br/>
+**_Kirill True_**<br/>
 
-**_*contacts*_**<br/>
+**_Contacts_**<br/>
 [Telegram](https://t.me/ThisIsTrue2)<br/>
 =========================================
---**_About me_**--
 <br/>
+
+**_About me_**
+
 <br/>
-My goal is employment as a front-end developer, or full stack, and completing this course in order to obtain a certificate. I have experience in team development in the front-end on Angular.js, and I have a great desire to acquire knowledge in the back-end. I worked with this project on Angular, [link](https://www.leoka-estetica-dev.ru/), but I like React better
+My goal is employment as a front-end developer, or full stack, and completing this course in order to obtain a certificate. I have experience in team development in the front-end on Angular.js, and I have a great desire to acquire knowledge in the back-end. I worked with this project on Angular, [Leoka Estetica](https://www.leoka-estetica-dev.ru/), but I like React better
 ============================================================================================
 <br/>
+
 ![html](https://img.icons8.com/?size=48&id=20909&format=png) ![css](https://img.icons8.com/?size=48&id=21278&format=png) ![ts](https://img.icons8.com/?size=48&id=nCj4PvnCO0tZ&format=png) ![js](https://img.icons8.com/?size=40&id=39146&format=png)<br/>
 ![react](https://img.icons8.com/?size=40&id=bzf0DqjXFHIW&format=png) ![redux](https://img.icons8.com/?size=48&id=jD-fJzVguBmw&format=png)<br/>![git](https://img.icons8.com/?size=48&id=20906&format=png) ![npm](https://img.icons8.com/?size=48&id=24895&format=png) ![vite](https://img.icons8.com/?size=48&id=dJjTWMogzFzg&format=png)<br/> ![angular](https://img.icons8.com/?size=48&id=71257&format=png) ![github](https://img.icons8.com/?size=50&id=12599&format=png)
 ============================================================================================
@@ -78,8 +81,18 @@ switchItUp(3);
 
 ===================================
 
-**_*Projects*_**
+**_Pet projects_**
 
 -[GeoInfoHub](https://github.com/Kirillv8/GeoInfoHub) -[Chat_ts](https://github.com/Kirillv8/frontend-2/pull/2) -[ToDo_list](https://github.com/Kirillv8/frontend-2/pull/5) -[Genderize](https://github.com/Kirillv8/frontend-2/pull/3) -[Quiz](https://github.com/Kirillv8/frontend-2/pull/7)
-<br/>
-**_*Commercial project*_** -[Leoka Estetica](https://www.leoka-estetica-dev.ru/)
+
+**_Commercial project_** 
+-[Leoka Estetica](https://www.leoka-estetica-dev.ru/)
+
+**_Courses_**
+
+# [Strada-One](https://strada.one/) -[Strada-Profile](![alt text](image.png))
+
+
+**_Languages:_**
+-Russian - native;-
+-English - B1.-
