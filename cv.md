@@ -14,7 +14,7 @@ My goal is employment as a front-end developer, or full stack, and completing th
 
 ![html](https://img.icons8.com/?size=48&id=20909&format=png) ![css](https://img.icons8.com/?size=48&id=21278&format=png) ![ts](https://img.icons8.com/?size=48&id=nCj4PvnCO0tZ&format=png) ![js](https://img.icons8.com/?size=40&id=39146&format=png)<br/>
 ![react](https://img.icons8.com/?size=40&id=bzf0DqjXFHIW&format=png) ![redux](https://img.icons8.com/?size=48&id=jD-fJzVguBmw&format=png)<br/>![git](https://img.icons8.com/?size=48&id=20906&format=png) ![npm](https://img.icons8.com/?size=48&id=24895&format=png) ![vite](https://img.icons8.com/?size=48&id=dJjTWMogzFzg&format=png)<br/> ![angular](https://img.icons8.com/?size=48&id=71257&format=png) ![github](https://img.icons8.com/?size=50&id=12599&format=png)
-============================================================================================
+=============================================
 <br/>
 
 **_Sample code._**
@@ -85,13 +85,11 @@ switchItUp(3);
 
 -[GeoInfoHub](https://github.com/Kirillv8/GeoInfoHub) -[Chat_ts](https://github.com/Kirillv8/frontend-2/pull/2) -[ToDo_list](https://github.com/Kirillv8/frontend-2/pull/5) -[Genderize](https://github.com/Kirillv8/frontend-2/pull/3) -[Quiz](https://github.com/Kirillv8/frontend-2/pull/7)
 
-**_Commercial project_** 
--[Leoka Estetica](https://www.leoka-estetica-dev.ru/)
+**_Commercial project_** -[Leoka Estetica](https://www.leoka-estetica-dev.ru/)
 
 **_Courses_**
 
-# [Strada-One](https://strada.one/) -[Strada-Profile](![alt text](image.png))
-
+# [Strada-One](https://strada.one/)
 
 **_Languages:_**
 -Russian - native;-
