@@ -9,12 +9,12 @@
 
 <br/>
 My goal is employment as a front-end developer, or full stack, and completing this course in order to obtain a certificate. I have experience in team development in the front-end on Angular.js, and I have a great desire to acquire knowledge in the back-end. I worked with this project on Angular, [Leoka Estetica](https://www.leoka-estetica-dev.ru/), but I like React better
-============================================================================================
+
 <br/>
 
 ![html](https://img.icons8.com/?size=48&id=20909&format=png) ![css](https://img.icons8.com/?size=48&id=21278&format=png) ![ts](https://img.icons8.com/?size=48&id=nCj4PvnCO0tZ&format=png) ![js](https://img.icons8.com/?size=40&id=39146&format=png)<br/>
 ![react](https://img.icons8.com/?size=40&id=bzf0DqjXFHIW&format=png) ![redux](https://img.icons8.com/?size=48&id=jD-fJzVguBmw&format=png)<br/>![git](https://img.icons8.com/?size=48&id=20906&format=png) ![npm](https://img.icons8.com/?size=48&id=24895&format=png) ![vite](https://img.icons8.com/?size=48&id=dJjTWMogzFzg&format=png)<br/> ![angular](https://img.icons8.com/?size=48&id=71257&format=png) ![github](https://img.icons8.com/?size=50&id=12599&format=png)
-=============================================
+
 <br/>
 
 **_Sample code._**
