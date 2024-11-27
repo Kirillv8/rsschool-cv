@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sevillana&display=swap"
+      rel="stylesheet"
+    />
+    <title>rs-school-cv-html</title>
+  </head>
+  <body>
+    <header>
+      <div class="nav-container">
+        <nav>
+          <ol>
+            <li><a href="#contacts">Contacts</a></li>
+            <li><a href="#about-me">About me</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#code-example">Code example</a></li>
+            <li><a href="#programming-courses">Programming</a></li>
+            <li><a href="#language">Language</a></li>
+            <li><a href="#projects">Projects</a></li>
+          </ol>
+        </nav>
+      </div>
+    </header>
+    <main class="main-wrapper">
+      <section class="my_photo-section">
+        <figure>
+          <img src="./publick/my_photo.jpg" alt="my_photo" class="my_photo" />
+          <figcaption class="figcaption-my-name">Kirill True</figcaption>
+        </figure>
+      </section>
+      <section id="contacts" class="contacts-section">
+        <h2>Contacts:</h2>
+        <a href="https://t.me/ThisIsTrue2">Telegram</a>
+      </section>
+      <section id="about-me" class="about-me-section">
+        <h2>About me</h2>
+        <p>
+          My goal is employment as a front-end developer, or full stack, and
+          completing this course in order to obtain a certificate. I have
+          experience in team development in the front-end on Angular.js, and I
+          have a great desire to acquire knowledge in the back-end. I worked
+          with this project on Angular,
+          <a href="https://www.leoka-estetica-dev.ru/">Leoka Estetica</a>, but I
+          like React better
+        </p>
+      </section>
+      <section id="skills" class="skills-section">
+        <h2>Languages ​​and tools:</h2>
+        <figure>
+          <img
+            src="https://img.icons8.com/?size=48&id=20909&format=png"
+            alt="html"
+          />
+          <figcaption>My skill html</figcaption>
+        </figure>
+        <figure>
+          <img
+            src="https://img.icons8.com/?size=48&id=21278&format=png"
+            alt="css"
+          />
+          <figcaption>My skill css</figcaption>
+        </figure>
+        <figure>
+          <img
+            src="https://img.icons8.com/?size=40&id=39146&format=png"
+            alt="js"
+          />
+          <figcaption>My skill js</figcaption>
+        </figure>
+        <figure>
+          <img
+            src="https://img.icons8.com/?size=48&id=nCj4PvnCO0tZ&format=png"
+            alt="ts"
+          />
+          <figcaption>My skill ts</figcaption>
+        </figure>
+        <figure>
+          <img
+            src="https://img.icons8.com/?size=40&id=bzf0DqjXFHIW&format=png"
+            alt="react"
+          />
+          <figcaption>My skill react</figcaption>
+        </figure>
+        <figure>
+          <img
+            src="https://img.icons8.com/?size=48&id=jD-fJzVguBmw&format=png"
+            alt="redux"
+          />
+          <figcaption>My skill redux</figcaption>
+        </figure>
+        <figure>
+          <img
+            src="https://img.icons8.com/?size=48&id=20906&format=png"
+            alt="git"
+          />
+          <figcaption>My skill git</figcaption>
+        </figure>
+        <figure>
+          <img
+            src="https://img.icons8.com/?size=48&id=24895&format=png"
+            alt="npm"
+          />
+          <figcaption>My skill npm</figcaption>
+        </figure>
+        <figure>
+          <img
+            src="https://img.icons8.com/?size=48&id=dJjTWMogzFzg&format=png"
+            alt="vite"
+          />
+          <figcaption>My skill vite</figcaption>
+        </figure>
+        <figure>
+          <img
+            src="https://img.icons8.com/?size=48&id=71257&format=png"
+            alt="angular"
+          />
+          <figcaption>My skill angular</figcaption>
+        </figure>
+        <figure>
+          <img
+            src="https://img.icons8.com/?size=50&id=12599&format=png"
+            alt="git hub"
+          />
+          <figcaption>My skill git hub</figcaption>
+        </figure>
+      </section>
+      <section id="code-example" class="code-example-section">
+        <h2>Example code</h2>
+        <h2>Description of the task:</h2>
+        <p>
+          When given a number between 0-9, return it in words. Please note that
+          the input is guaranteed to be in the range 0-9.<br />
+          Entrance:1<br />
+          Output: "One".<br />
+          If your language supports it, try using a switch statement.<br />
+        </p>
+        <h2>Solution</h2>
+        <p>
+          The solution is using switch, since compared to if/else the solution
+          will be more concise.<br />
+          By calling a function, we pass a number argument from a given
+          condition, in variables<br />
+          we define numbers in the range from the task, and what matches the
+          condition will output this number in string format.
+        </p>
+        <pre><code>function switchItUp(number) {
+          const one = 1;
+          const two = 2;
+          const three = 3;
+          const four = 4;
+          const five = 5;
+          const six = 6;
+          const seven = 7;
+          const eight = 8;
+          const nine = 9;
+          switch (number) {
+            case one:
+              console.log('One');
+              break;
+            case two:
+              console.log('Two');
+              break;
+            case three:
+              console.log('Three');
+              break;
+            case four:
+              console.log('Four');
+              break;
+            case five:
+              console.log('Five');
+              break;
+            case six:
+              console.log('Six');
+              break;
+            case seven:
+              console.log('Seven');
+              break;
+            case eight:
+              console.log('Eight');
+              break;
+            case nine:
+              console.log('Nine');
+              break;
+        
+            default:
+              console.log('Invalid number');
+          }
+        }
+        
+        switchItUp(3);</code></pre>
+      </section>
+      <section id="programming-courses" class="programming-courses-section">
+        <h2>Courses:</h2>
+        <a href="https://strada.one/">Strada-One</a>
+      </section>
+      <section id="language">
+        <h2>Languages:</h2>
+        <ol>
+          <li>Russian - native</li>
+          <li>English - B1</li>
+        </ol>
+      </section>
+    </main>
+    <footer id="projects">
+      <h2>Pet projects</h2>
+      <ol>
+        <li><a href="https://github.com/Kirillv8/GeoInfoHub">GeoInfoHub</a></li>
+        <li>
+          <a href="https://github.com/Kirillv8/frontend-2/pull/2">Chat_ts</a>
+        </li>
+        <li>
+          <a href="https://github.com/Kirillv8/frontend-2/pull/5">ToDo_list</a>
+        </li>
+        <li>
+          <a href="https://github.com/Kirillv8/frontend-2/pull/3">Genderize</a>
+        </li>
+        <li>
+          <a href="https://github.com/Kirillv8/frontend-2/pull/7">Quiz</a>
+        </li>
+      </ol>
+    </footer>
+  </body>
+</html>
